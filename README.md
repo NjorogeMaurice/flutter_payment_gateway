@@ -1,6 +1,6 @@
 # flutter_payment_gateway
 
-MPESA and visa payment gateway in Flutter
+MPESA payment gateway in Flutter
 
 ## Getting Started
 
